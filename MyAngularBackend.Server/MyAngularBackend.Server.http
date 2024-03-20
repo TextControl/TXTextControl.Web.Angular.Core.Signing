@@ -1,0 +1,6 @@
+@MyAngularBackend.Server_HostAddress = http://localhost:5252
+
+GET {{MyAngularBackend.Server_HostAddress}}/document/
+Accept: application/json
+
+###
